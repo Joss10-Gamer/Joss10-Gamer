@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Josue Naves
 
-<!--
-**Joss10-Gamer/Joss10-Gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy estudiante de ingenieria en ciencias de la computacion, y estudiante de fullstack en academia Kodigo.  
+💼 Actualmente trabajo en ferreteria epa
+🚀 Me interesa: temas como el desarrollo web, inteligencia artificial, y ciberseguridad  
+📫 Cómo contactarme: joss.06952@gmail.com
+## 🛠️ Tecnologías y herramientas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!-- Agrega más según lo que uses -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
