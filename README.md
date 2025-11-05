@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Josue Naves
 
 🎓 Soy estudiante de ingenieria en ciencias de la computacion, y estudiante de fullstack en academia Kodigo.  
-💼 Actualmente trabajo en ferreteria epa
+💼 Actualmente trabajo en ferreteria epa pero aspiro a aprender sobre la programacion y como se trabaja en el ambito laboral
 🚀 Me interesa: temas como el desarrollo web, inteligencia artificial, y ciberseguridad, y programacion en videojuegos.  
 📫 Cómo contactarme: joss.06952@gmail.com
 ## 🛠️ Tecnologías y herramientas que deseo aprender
